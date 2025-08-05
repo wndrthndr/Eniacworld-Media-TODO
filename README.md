@@ -3,3 +3,6 @@ Todo App  Description : User login ,Signup and password hashing with JWT session
 
 
 ![Todo](assets/first.png)
+![Todo](assets/second.png)
+![Todo](assets/third.png)
+
